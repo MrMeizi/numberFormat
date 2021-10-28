@@ -1,5 +1,5 @@
 {
-    "name": "cmmz/number-format",
+    "name": "cmmz/uploadfile",
     "type": "library",
     "require": {
         "php": ">=5.6.0"

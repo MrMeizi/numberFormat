@@ -1,14 +1,14 @@
 <?php
 
 /*
-* This file is part of the guanguans/uploadfile.
+* This file is part of the cmmz/uploadfile.
 *
 * ( c ) guanguans <ityaozm@gmail.com>
 *
 * This source file is subject to the MIT license that is bundled.
 */
 
-namespace Guanguans;
+namespace Cmmz;
 
 class UploadFile {
     private $config = [
