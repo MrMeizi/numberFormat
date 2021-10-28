@@ -1,7 +1,7 @@
 <?php
 
 /*
-* This file is part of the cmmz/uploadfile.
+* This file is part of the guanguans/uploadfile.
 *
 * ( c ) guanguans <ityaozm@gmail.com>
 *
@@ -10,8 +10,8 @@
 
 require __DIR__.'/../vendor/autoload.php';
 
-use Cmmz\UploadFile;
-
+use Guanguans\UploadFile;
+var_dump('ds');die('');
 $upload = new UploadFile();
 $upload->maxSize = 1 * 1024 * 1024;
 // 默认为-1，不限制上传大小
