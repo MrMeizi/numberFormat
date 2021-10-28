@@ -1,0 +1,19 @@
+{
+    "name": "miss/number-format",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NumberFormat\\": "src/math"
+        }
+    },
+    "authors": [
+        {
+            "name": "mei",
+            "email": "599107130@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
